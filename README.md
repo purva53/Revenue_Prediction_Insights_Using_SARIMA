@@ -46,4 +46,4 @@ streamlit run miniproject.py --server.port 8000
 
 ## Feedback and Contributions
 
-Feedback and contributions are welcome! Feel free to open issues for any suggestions or bugs encountered. If you'd like to contribute, please fork the repository and submit a pull request. For direct communication, you can email me at [purvan76@gmailo.com](mailto:purvan76@gmailo.com).
+Feedback and contributions are welcome! Feel free to open issues for any suggestions or bugs encountered. If you'd like to contribute, please fork the repository and submit a pull request. For direct communication, you can email me at [purvan76@gmailo.com](mailto:purvan76@gmail.com).
